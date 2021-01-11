@@ -1,2 +1,2 @@
-Various Python solutions to Exercism.io exercises
+My solutions to various Python exercises on Exercism.io
 
