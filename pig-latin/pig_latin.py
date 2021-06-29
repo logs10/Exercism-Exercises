@@ -1,3 +1,7 @@
+"""
+Testing
+"""
+
 def translate(text):
     if text[0:1].lower() in ['a', 'e', 'i', 'o', 'u']:
         result = text + 'ay'
